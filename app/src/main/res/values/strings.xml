@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Event Finder</string>
+    <string name="company_name">EVENT FINDER</string>
+    <string name="about_button">About</string>
+    <string name="location_button">See Location</string>
+    <string name="map_key">AIzaSyCSh-iJmYHDp4D_w9QKCQsAHOlLKqqWuyQ</string>
+    <string name="about_text">
+        Event Finder application helps to locate nearby events and provides information regarding events.You can easily register for the event and donate for it
+    </string>
+    <string name="donate_activity">Donate to make a difference</string>
+    <string name="submit_button">Submit</string>
+    <string name="first_name">First Name</string>
+    <string name="surname">Surname</string>
+    <string name="register_button">Register</string>
+    <string name="email">Email</string>
+    <string name="mobile_no.">Mobile No.</string>
+    <string name="donate_activity2">Donate in Hudds 2020 charity ball ,you can donate through ways , we have provided our account number for donations or you can register you card and by from the app</string>
+    <string name="donate_button">Donate</string>
+    <string name="account_number_heading">Account Number</string>
+    <string name="account_number">1928347884</string>
+    <string name="enter_amount">Enter Amount in Pounds</string>
+    <string name="invalid_name">Please Enter name</string>
+    <string name="invalid_mobile">Enter a valid mobile number</string>
+    <string name="invalid_email">Please Enter a valid Email</string>
+    <string name="version">Version 1.001</string>
+    <string name="pay_donations">Donate</string>>
+    <string name="developer_name">Presented by Khan Studios</string>
+    <string name="event_pass">Event Entry Pass</string>>
+    <string name="event_name">Hudds Charity Ball 2020</string>>
+    <string name="uoh">University of Huddersfield</string>>
+    <string name="date">1ST JUNE</string>>
+    <string name="location">Oastler Building</string>>
+    <string name="time">12:00 PM</string>>
+    <string name="screenshot">Take a ScreenShot</string>>
+     <string name="ks">Khan Studios</string>
+    <string name="register1">Register for the Event </string>>
+    <string name="about">About the app</string>>
+</resources>

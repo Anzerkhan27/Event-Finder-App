@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#00CC00</color>
+    <color name="color_background">#260147</color>
+    <color name="logo_name">#FFF7FE</color>
+     <color name="color_background2">#C490CC</color>
+    <color name="ks_logo">#040509</color>
+    <color name="ks_Logo1">#B4803E</color>
+    <color name="logo_name2">#F0612C</color>>
+    <color name="color_background1">#010103</color>>
+    <color name="background">#231A11</color>>
+    <color name="button_color">#9AAFBC</color>
+
+</resources>
